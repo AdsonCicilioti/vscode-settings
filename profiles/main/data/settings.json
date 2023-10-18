@@ -1,0 +1,247 @@
+{
+    // "[nix]": {
+    //     "editor.defaultFormatter": "jnoortheen.nix-ide"
+    // },
+    "git.enableSmartCommit": true,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "files.eol": "\n",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "medium",
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "window.titleBarStyle": "custom",
+    "window.commandCenter": true,
+    "window.autoDetectColorScheme": true,
+    // "workbench.preferredDarkColorTheme": "GitHub Dark Turbo",
+    // "workbench.preferredLightColorTheme": "GitHub Light",
+    "editor.tabCompletion": "on",
+    "[shellscript]": {
+        "editor.insertSpaces": false
+    },
+    "editor.tabSize": 2,
+    "editor.useTabStops": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "'FiraCode NF', 'Operator Mono Lig Light', 'Fira Code Retina', 'FiraCode Nerd Font', 'Material Design Icons', 'Font Awesome 6 Free', mono",
+    "terminal.integrated.fontFamily": "'FiraCode NF', 'Operator Mono Lig Light', 'Fira Code Retina', 'FiraCode Nerd Font', 'Material Design Icons', 'Font Awesome 6 Free', mono",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.85,
+    "editor.parameterHints.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "editor.smoothScrolling": true,
+    "editor.accessibilitySupport": "off",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.renderLineHighlight": "all",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.shellcheck": true
+    },
+    "editor.suggest.showStatusBar": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "breadcrumbs.enabled": true,
+    "html.format.wrapAttributes": "aligned-multiple",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.rightClickBehavior": "paste",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.scrollback": 10000,
+    "terminal.integrated.cursorWidth": 2,
+    "terminal.integrated.lineHeight": 1.2,
+    "powermode.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "svg": "html"
+    },
+    "files.associations": {
+        "*.prisma": "prisma",
+        ".sequelizerc": "javascript",
+        "*.njs": "javascript",
+        "*.sass": "sass"
+    },
+    "extensions.ignoreRecommendations": true,
+    "typescript.tsserver.log": "off",
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+        // "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "wongjn.php-sniffer"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[vue]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    },
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    "vetur.format.defaultFormatter.css": "prettier",
+    "vetur.format.defaultFormatter.postcss": "prettier",
+    "vetur.format.defaultFormatter.scss": "prettier",
+    "vetur.format.defaultFormatter.less": "prettier",
+    "vetur.format.defaultFormatter.stylus": "stylus-supremacy",
+    "vetur.format.defaultFormatter.js": "none",
+    "vetur.format.defaultFormatter.ts": "none",
+    "vetur.trace.server": "messages",
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true,
+        "**/.hg/store/**": true,
+        "**/vendor/*/**": true
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    // PHP
+    "php.suggest.basic": false,
+    "php.validate.run": "onType",
+    "phpSniffer.autoDetect": true,
+    "pigments.enabledExtensions": "css, sass, scss, styl, jsx, js, php, json, yml,ts,tsx, lua, config, conf",
+    "shellcheck.exclude": [
+        "SC2154",
+        "SC1091",
+        "SC1090"
+    ],
+    "svg.preview.mode": "svg",
+    "window.enableMenuBarMnemonics": true,
+    "window.customMenuBarAltFocus": true,
+    "npm.enableRunFromFolder": true,
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
+    "vscodeGoogleTranslate.preferredLanguage": "Portuguese",
+    "translateIt.targetLanguage": "Portuguese (Portugal, Brazil)",
+    "git.ignoreRebaseWarning": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.productIconTheme": "fluent-icons",
+    "terminal.integrated.tabs.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "files.encoding": "utf8",
+    "files.trimTrailingWhitespace": true,
+    "javascript.format.semicolons": "insert",
+    "gitlens.advanced.messages": {
+        "suppressCreatePullRequestPrompt": true,
+        "suppressLineUncommittedWarning": true
+    },
+    "material-icon-theme.activeIconPack": "nest",
+    "pigments.markerType": "",
+    "codesnap.realLineNumbers": true,
+    "codesnap.transparentBackground": true,
+    "git.confirmSync": false,
+    "update.mode": "manual",
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "workbench.iconTheme": "catppuccin-latte",
+    "powermode.combo.counterSize": 2,
+    "powermode.combo.location": "statusbar",
+    "powermode.shake.intensity": 1,
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.includeLanguages": {
+        "css": "scss"
+    },
+    "[dockercompose]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "workbench.editor.pinnedTabSizing": "compact",
+    "typescript.suggest.completeFunctionCalls": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "git.autofetch": true,
+    "window.menuBarVisibility": "toggle",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[postcss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[sass]": {
+        "editor.defaultFormatter": "stylelint.vscode-stylelint"
+    },
+    "sass.format.enabled": true,
+    "stylelint.enable": true,
+    "stylelint.validate": [
+        "css",
+        "scss",
+        "sass",
+        "less",
+        "postcss"
+    ],
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "meta.brace",
+                    "punctuation"
+                ],
+                "settings": {
+                    "fontStyle": "bold",
+                }
+            }
+        ]
+    },
+    "codeium.enableSearch": true,
+    "codeium.enableConfig": {
+        "*": true,
+        "plaintext": true,
+        "log": true
+    },
+    "[astro]": {
+        "editor.defaultFormatter": "astro-build.astro-vscode"
+    },
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "diffEditor.ignoreTrimWhitespace": false
+}
