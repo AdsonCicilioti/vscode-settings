@@ -1,7 +1,4 @@
 {
-    // "[nix]": {
-    //     "editor.defaultFormatter": "jnoortheen.nix-ide"
-    // },
     "git.enableSmartCommit": true,
     "gitlens.codeLens.recentChange.enabled": false,
     "gitlens.codeLens.authors.enabled": false,
@@ -14,8 +11,8 @@
     "window.titleBarStyle": "custom",
     "window.commandCenter": true,
     "window.autoDetectColorScheme": true,
-    // "workbench.preferredDarkColorTheme": "GitHub Dark Turbo",
-    // "workbench.preferredLightColorTheme": "GitHub Light",
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.preferredLightColorTheme": "Default Light Modern",
     "editor.tabCompletion": "on",
     "[shellscript]": {
         "editor.insertSpaces": false
@@ -85,9 +82,6 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "[markdown]": {
-        // "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "[php]": {
         "editor.defaultFormatter": "wongjn.php-sniffer"
     },
@@ -123,7 +117,6 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
-    // PHP
     "php.suggest.basic": false,
     "php.validate.run": "onType",
     "phpSniffer.autoDetect": true,
