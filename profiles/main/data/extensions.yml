@@ -2,14 +2,12 @@ disabled:
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
 enabled:
+  - id: astro-build.astro-vscode
+    uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
   - id: Catppuccin.catppuccin-vsc-icons
-    uuid: 625b9abd-dfac-405b-bf34-e65f46e2f22f
+    uuid: c84e505c-f415-4102-b952-53cb6f0bdf10
   - id: cdonohue.quill-icons
-    uuid: b01b79ca-bf6d-45ad-ac80-107f77d6a82d
-  - id: ChristianMortaro.vscode-nullstack
-    uuid: ba35296c-8ac0-42ad-82b6-3db19ec4aa09
-  - id: cocopon.iceberg-theme
-    uuid: 32d281a3-1221-4c5c-8a95-4d30f0e667ce
+    uuid: null
   - id: csstools.postcss
     uuid: 80def04d-6d01-495b-9d59-4ad19408872f
   - id: cweijan.vscode-mysql-client2
@@ -20,14 +18,10 @@ enabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: ddiu8081.moegi-theme
     uuid: ad89b35d-addd-453b-bb3e-3b1b400e983b
-  - id: dlasagno.rasi
-    uuid: cc85263d-01d7-43bc-8ccf-50b9800b321e
-  - id: DragWx.astronomy-theme
-    uuid: 05b841a9-dd2f-444a-80fb-c4ad0d4d4dfb
   - id: dsznajder.es7-react-js-snippets
     uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
   - id: DubeSoftware.github-dark-turbo
-    uuid: 6ef3d0ff-7658-4f77-b2e9-b08ecbc05309
+    uuid: null
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: EditorConfig.EditorConfig
@@ -35,19 +29,15 @@ enabled:
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: fabiospampinato.vscode-markdown-todo
-    uuid: f31537af-b112-41b5-a693-fb44532d4a42
-  - id: figma.figma-vscode-extension
-    uuid: bff510dc-dcac-4daf-925c-299ee91fb135
-  - id: formulahendry.docker-explorer
-    uuid: 96c69be9-5b09-4a18-8c82-4d30ab145017
+    uuid: null
   - id: foxundermoon.shell-format
     uuid: 5fb19573-2183-4cf2-b53d-0fb869dae7ae
   - id: funkyremi.vscode-google-translate
-    uuid: 50134257-3dbb-4e6d-a67f-a7fd3632d86b
+    uuid: null
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
   - id: github.vscode-github-actions
-    uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
+    uuid: null
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: GraphQL.vscode-graphql
@@ -60,30 +50,24 @@ enabled:
     uuid: a27ff63d-ff11-478d-b1ab-19aa1ef19882
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
-  - id: Jabun.vanilla-extract-react-snippets
-    uuid: 9b2e5c03-92e7-46dd-a2ff-d073fbd8034f
   - id: jaspernorth.vscode-pigments
     uuid: 157fb3af-9e8d-4a25-ada3-ef6d4b8c7818
-  - id: jep-a.lua-plus
-    uuid: b1a07478-38e2-429d-b12a-e41e735f5ca4
+  - id: jeanp413.open-remote-ssh
+    uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
   - id: jock.svg
     uuid: 4ae6dc82-7981-4f10-bd81-2d72aec37f39
   - id: mads-hartmann.bash-ide-vscode
     uuid: b1b0f283-8246-4e90-832e-a6c409d378d1
-  - id: magnobiet.sass-extension-pack
-    uuid: 9e01e316-751c-4216-9eec-8b9ece8d558b
-  - id: MarcusElg.markdowntoolbar
-    uuid: 6596bca3-9e2b-413f-8cc1-2b8ace4421bf
+  - id: mattpocock.ts-error-translator
+    uuid: e78c7d39-3c30-4ef3-a3bd-b5b641cb91eb
   - id: maximus136.change-string-case
-    uuid: 2b5eea6b-b1f0-4796-83bd-6adb2448ac19
-  - id: MaxvanderSchee.web-accessibility
-    uuid: bba5240f-53e5-45b1-89e2-c5b05a897044
+    uuid: null
   - id: mgmcdermott.vscode-language-babel
     uuid: dd5a2c83-ad8c-4839-a529-0644e5acb646
   - id: miguelsolorio.fluent-icons
     uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
   - id: miguelsolorio.min-theme
-    uuid: e9e7f567-5669-4c9c-a2db-df05d6cf28ed
+    uuid: null
   - id: mjmlio.vscode-mjml
     uuid: ce7683f9-a9fd-4fd5-8524-eb2c362b84a7
   - id: mongodb.mongodb-vscode
@@ -98,30 +82,12 @@ enabled:
     uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-pylance
-    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
-  - id: ms-toolsai.jupyter
-    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
-  - id: ms-toolsai.jupyter-keymap
-    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-vscode-remote.remote-containers
-    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
-  - id: ms-vscode-remote.remote-ssh
-    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
-  - id: ms-vscode-remote.remote-ssh-edit
-    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
-  - id: ms-vscode-remote.remote-wsl
-    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+    uuid: null
   - id: ms-vscode.cmake-tools
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
   - id: ms-vscode.cpptools
-    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
-  - id: ms-vscode.cpptools-extension-pack
-    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
-  - id: ms-vscode.remote-explorer
-    uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
-  - id: ms-vscode.remote-server
-    uuid: 105c0b3c-07a9-4156-a4fc-4141040eb07e
+    uuid: null
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
   - id: mvllow.rose-pine
@@ -132,18 +98,12 @@ enabled:
     uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
   - id: oven.bun-vscode
     uuid: 2c58c6a8-c23c-4913-899e-17c90b15274e
-  - id: peymanslh.blueberry-dark-theme
-    uuid: 572868b0-4ce7-4638-b99f-4d3bb61fc898
-  - id: phoihos.translate-it
-    uuid: d5820f00-657e-4824-bd1e-f45320364d55
   - id: piousdeer.adwaita-theme
     uuid: 93fbc635-4a9a-4ff1-88ba-bf017484c602
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: plibither8.remove-comments
-    uuid: 838d060e-1c47-4e05-b553-439c5b94fedc
-  - id: pmndrs.pmndrs
-    uuid: 51c57bc5-73aa-4901-8c2b-1bd0af852e72
+    uuid: null
   - id: Prisma.prisma
     uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
   - id: Prisma.prisma-insider
@@ -153,50 +113,34 @@ enabled:
   - id: Remisa.shellman
     uuid: 2783c7a6-dc32-471d-ab7f-863ca5e8deb3
   - id: rettimo.nextjs-vscode-snippets
-    uuid: 528cc489-d833-4cd0-b88e-f68a33a0bb6b
+    uuid: null
   - id: ricardo-emerson.create-react-tsx-component
-    uuid: 8d44ce3c-a915-4099-a904-61957f35c285
+    uuid: null
   - id: ritwickdey.LiveServer
     uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
   - id: rocketseat.rocketseatreactjs
-    uuid: e8e6c9a6-cbd0-4812-b617-50ab45b749e4
-  - id: satoren.lualint
-    uuid: 7ff50f43-a0df-4bf6-82e3-c0e407812c8a
+    uuid: null
   - id: SheltonLouis.astro-snippets
-    uuid: e02a41e8-64c9-4bb0-95d0-dbbb941e1f0d
-  - id: siddharthkp.codesandbox-black
-    uuid: 20da9d05-386a-44f7-b741-26ea2137e71c
+    uuid: null
   - id: stylelint.vscode-stylelint
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: syler.sass-indented
     uuid: 466468c3-1861-4ad1-bf3e-f9ad46545ebb
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
-  - id: taniarascia.new-moon-vscode
-    uuid: da62dfba-5132-4928-a127-0ef0c8af08c3
-  - id: TheNuProjectContributors.vscode-nushell-lang
-    uuid: 6862b2a7-3c9b-4bae-b48f-c697c243e6e5
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
-  - id: tristanremy.mirage
-    uuid: da1d0f98-4e87-49f4-85f6-d9bcec4e78f1
   - id: twxs.cmake
     uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
-  - id: Tyriar.lorem-ipsum
-    uuid: 489abeb0-400c-4a08-bde4-cf5d9b863a32
   - id: unifiedjs.vscode-mdx
-    uuid: af8cfc85-cb72-45d0-bae2-9a98cd0c69f3
+    uuid: 33fc5d59-4646-42cd-9ab8-bca007572f96
   - id: vadimcn.vscode-lldb
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
-  - id: wicked-labs.astro-theme
-    uuid: ae17913a-d4eb-4f89-b194-2284853c65e3
   - id: wongjn.php-sniffer
     uuid: 7ec14729-6395-434d-bcf5-6d61b5e3ca8e
-  - id: wordpresstoolbox.wordpress-toolbox
-    uuid: 87b7ee15-39a4-4bbe-b4b8-86718c151964
   - id: xdebug.php-debug
     uuid: 044b4b31-2969-4af3-895d-855433b8b46d
   - id: Yummygum.city-lights-icon-vsc
-    uuid: 897c115a-dfbf-4c20-bafd-1c13fc5d1d80
+    uuid: null
   - id: zokugun.cron-tasks
-    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
