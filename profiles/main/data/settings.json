@@ -236,5 +236,27 @@
     "[dockerfile]": {
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
     },
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "totalTypeScript.hideAllTips": false,
+    "totalTypeScript.hideBasicTips": false,
+    "totalTypeScript.hiddenTips": [
+        "ts-object-type",
+        "basic-types",
+        "type-alias-declaration",
+        "variable-type-annotation",
+        "passing-generics-to-types",
+        "type-alias-with-generics",
+        "array-type",
+        "keyof",
+        "optional-object-property",
+        "generic-slots-in-functions",
+        "typing-function-parameters",
+        "typeof",
+        "union-type",
+        "undefined-keyword",
+        "literal-type",
+        "record-utility-type",
+        "as-assertion"
+    ],
+    "window.zoomLevel": 1
 }

@@ -1,6 +1,8 @@
 disabled:
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: vadimcn.vscode-lldb
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: astro-build.astro-vscode
     uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
@@ -134,8 +136,6 @@ enabled:
     uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
   - id: unifiedjs.vscode-mdx
     uuid: 33fc5d59-4646-42cd-9ab8-bca007572f96
-  - id: vadimcn.vscode-lldb
-    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
   - id: wongjn.php-sniffer
     uuid: 7ec14729-6395-434d-bcf5-6d61b5e3ca8e
   - id: xdebug.php-debug
