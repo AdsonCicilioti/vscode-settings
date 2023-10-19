@@ -256,7 +256,9 @@
         "undefined-keyword",
         "literal-type",
         "record-utility-type",
-        "as-assertion"
-    ],
-    "window.zoomLevel": 1
+        "as-assertion",
+        "pick-utility-type",
+        "non-null-expression",
+        "any-type"
+    ]
 }
