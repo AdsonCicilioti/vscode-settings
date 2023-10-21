@@ -11,8 +11,8 @@
     "window.titleBarStyle": "custom",
     "window.commandCenter": true,
     "window.autoDetectColorScheme": true,
-    "workbench.preferredDarkColorTheme": "Default Dark Modern",
-    "workbench.preferredLightColorTheme": "Default Light Modern",
+    "workbench.preferredDarkColorTheme": "Rosé Pine",
+    "workbench.preferredLightColorTheme": "Rosé Pine Dawn",
     "editor.tabCompletion": "on",
     "[shellscript]": {
         "editor.insertSpaces": false
@@ -24,8 +24,6 @@
     "editor.fontFamily": "'FiraCode NF', 'Operator Mono Lig Light', 'Fira Code Retina', 'FiraCode Nerd Font', 'Material Design Icons', 'Font Awesome 6 Free', mono",
     "terminal.integrated.fontFamily": "'FiraCode NF', 'Operator Mono Lig Light', 'Fira Code Retina', 'FiraCode Nerd Font', 'Material Design Icons', 'Font Awesome 6 Free', mono",
     "editor.fontLigatures": true,
-    "editor.renderWhitespace": "all",
-    "editor.fontSize": 16,
     "editor.lineHeight": 1.85,
     "editor.parameterHints.enabled": false,
     "editor.mouseWheelZoom": true,
@@ -164,7 +162,7 @@
     "typescript.disableAutomaticTypeAcquisition": true,
     "workbench.enableExperiments": false,
     "workbench.settings.enableNaturalLanguageSearch": false,
-    "workbench.iconTheme": "catppuccin-latte",
+    "workbench.iconTheme": "material-icon-theme",
     "powermode.combo.counterSize": 2,
     "powermode.combo.location": "statusbar",
     "powermode.shake.intensity": 1,
@@ -259,6 +257,12 @@
         "as-assertion",
         "pick-utility-type",
         "non-null-expression",
-        "any-type"
-    ]
+        "any-type",
+        "mapped-type",
+        "partial-utility-type",
+        "required-utility-type",
+        "type-alias-with-multiple-generics",
+        "tuple-type"
+    ],
+    "workbench.colorTheme": "Rosé Pine"
 }

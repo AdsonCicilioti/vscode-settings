@@ -32,6 +32,12 @@ enabled:
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: Equinusocio.vsc-community-material-theme
+    uuid: 484d897a-6711-403c-ab54-a96f12be5833
+  - id: Equinusocio.vsc-material-theme
+    uuid: dffaf5a1-2219-434b-9d87-cb586fd59260
+  - id: equinusocio.vsc-material-theme-icons
+    uuid: 8c609a4f-268a-41fb-8fe6-b6fcd95e8113
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: fabiospampinato.vscode-markdown-todo
@@ -140,6 +146,8 @@ enabled:
     uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
   - id: unifiedjs.vscode-mdx
     uuid: 33fc5d59-4646-42cd-9ab8-bca007572f96
+  - id: wicked-labs.sequoia
+    uuid: 067485f0-9fff-4831-97e5-23a60a1bea7a
   - id: wongjn.php-sniffer
     uuid: 7ec14729-6395-434d-bcf5-6d61b5e3ca8e
   - id: xdebug.php-debug
