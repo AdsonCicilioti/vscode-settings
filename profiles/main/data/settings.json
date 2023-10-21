@@ -11,8 +11,8 @@
     "window.titleBarStyle": "custom",
     "window.commandCenter": true,
     "window.autoDetectColorScheme": true,
-    "workbench.preferredDarkColorTheme": "Rosé Pine",
-    "workbench.preferredLightColorTheme": "Rosé Pine Dawn",
+    "workbench.preferredDarkColorTheme": "GitHub Dark Turbo",
+    "workbench.preferredLightColorTheme": "GitHub Light",
     "editor.tabCompletion": "on",
     "[shellscript]": {
         "editor.insertSpaces": false
@@ -264,5 +264,5 @@
         "type-alias-with-multiple-generics",
         "tuple-type"
     ],
-    "workbench.colorTheme": "Rosé Pine"
+    "workbench.colorTheme": "GitHub Dark Turbo"
 }
