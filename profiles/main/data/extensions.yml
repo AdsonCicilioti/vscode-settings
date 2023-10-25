@@ -10,6 +10,8 @@ enabled:
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: Catppuccin.catppuccin-vsc-icons
     uuid: c84e505c-f415-4102-b952-53cb6f0bdf10
+  - id: cschleiden.vscode-github-actions
+    uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: csstools.postcss
     uuid: 80def04d-6d01-495b-9d59-4ad19408872f
   - id: cweijan.vscode-mysql-client2
@@ -22,6 +24,8 @@ enabled:
     uuid: ad89b35d-addd-453b-bb3e-3b1b400e983b
   - id: dsznajder.es7-react-js-snippets
     uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
+  - id: DubeSoftware.github-dark-turbo
+    uuid: null
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: EditorConfig.EditorConfig
@@ -78,6 +82,8 @@ enabled:
     uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-vscode-remote.remote-wsl
+    uuid: null
   - id: ms-vscode.cmake-tools
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
   - id: ms-vscode.vscode-typescript-next
