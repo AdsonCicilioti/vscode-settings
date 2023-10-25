@@ -1,8 +1,6 @@
 disabled:
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
-  - id: vadimcn.vscode-lldb
-    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: antfu.iconify
     uuid: 14933acc-ee13-48c1-9320-e39310c683b1
@@ -12,8 +10,6 @@ enabled:
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: Catppuccin.catppuccin-vsc-icons
     uuid: c84e505c-f415-4102-b952-53cb6f0bdf10
-  - id: cdonohue.quill-icons
-    uuid: null
   - id: csstools.postcss
     uuid: 80def04d-6d01-495b-9d59-4ad19408872f
   - id: cweijan.vscode-mysql-client2
@@ -26,8 +22,6 @@ enabled:
     uuid: ad89b35d-addd-453b-bb3e-3b1b400e983b
   - id: dsznajder.es7-react-js-snippets
     uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
-  - id: DubeSoftware.github-dark-turbo
-    uuid: null
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: EditorConfig.EditorConfig
@@ -40,16 +34,10 @@ enabled:
     uuid: 8c609a4f-268a-41fb-8fe6-b6fcd95e8113
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
-  - id: fabiospampinato.vscode-markdown-todo
-    uuid: null
   - id: foxundermoon.shell-format
     uuid: 5fb19573-2183-4cf2-b53d-0fb869dae7ae
-  - id: funkyremi.vscode-google-translate
-    uuid: null
   - id: GitHub.github-vscode-theme
     uuid: 7328a705-91fc-49e6-8293-da6f112e482d
-  - id: github.vscode-github-actions
-    uuid: null
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: GraphQL.vscode-graphql
@@ -72,14 +60,10 @@ enabled:
     uuid: b1b0f283-8246-4e90-832e-a6c409d378d1
   - id: mattpocock.ts-error-translator
     uuid: e78c7d39-3c30-4ef3-a3bd-b5b641cb91eb
-  - id: maximus136.change-string-case
-    uuid: null
   - id: mgmcdermott.vscode-language-babel
     uuid: dd5a2c83-ad8c-4839-a529-0644e5acb646
   - id: miguelsolorio.fluent-icons
     uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
-  - id: miguelsolorio.min-theme
-    uuid: null
   - id: mjmlio.vscode-mjml
     uuid: ce7683f9-a9fd-4fd5-8524-eb2c362b84a7
   - id: mongodb.mongodb-vscode
@@ -94,16 +78,10 @@ enabled:
     uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-vscode-remote.remote-containers
-    uuid: null
   - id: ms-vscode.cmake-tools
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
-  - id: ms-vscode.cpptools
-    uuid: null
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
-  - id: mvllow.rose-pine
-    uuid: 6ef63bba-e6b8-4209-b562-9a927f36ae8f
   - id: naumovs.color-highlight
     uuid: 121396ad-85a1-45ec-9fd1-d95028a847f5
   - id: octref.vetur
@@ -114,8 +92,6 @@ enabled:
     uuid: 93fbc635-4a9a-4ff1-88ba-bf017484c602
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
-  - id: plibither8.remove-comments
-    uuid: null
   - id: Prisma.prisma
     uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
   - id: Prisma.prisma-insider
@@ -124,16 +100,8 @@ enabled:
     uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
   - id: Remisa.shellman
     uuid: 2783c7a6-dc32-471d-ab7f-863ca5e8deb3
-  - id: rettimo.nextjs-vscode-snippets
-    uuid: null
-  - id: ricardo-emerson.create-react-tsx-component
-    uuid: null
   - id: ritwickdey.LiveServer
     uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
-  - id: rocketseat.rocketseatreactjs
-    uuid: null
-  - id: SheltonLouis.astro-snippets
-    uuid: null
   - id: stylelint.vscode-stylelint
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: syler.sass-indented
@@ -146,13 +114,13 @@ enabled:
     uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
   - id: unifiedjs.vscode-mdx
     uuid: 33fc5d59-4646-42cd-9ab8-bca007572f96
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
   - id: wicked-labs.sequoia
     uuid: 067485f0-9fff-4831-97e5-23a60a1bea7a
   - id: wongjn.php-sniffer
     uuid: 7ec14729-6395-434d-bcf5-6d61b5e3ca8e
   - id: xdebug.php-debug
     uuid: 044b4b31-2969-4af3-895d-855433b8b46d
-  - id: Yummygum.city-lights-icon-vsc
-    uuid: null
   - id: zokugun.cron-tasks
     uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
