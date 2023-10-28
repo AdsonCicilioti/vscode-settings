@@ -21,7 +21,7 @@
     "editor.useTabStops": true,
     "editor.formatOnSave": true,
     "editor.wordWrap": "on",
-    "editor.fontFamily": "'FiraCode NFM', 'Operator Mono Lig Light', 'Fira Code Retina', 'FiraCode Nerd Font', 'Material Design Icons', 'Font Awesome 6 Free', mono",
+    "editor.fontFamily": "'FiraCode NF', 'Operator Mono Lig Light', 'Fira Code Retina', 'FiraCode Nerd Font', 'Material Design Icons', 'Font Awesome 6 Free', mono",
     "terminal.integrated.fontFamily": "'FiraCode NF', 'Operator Mono Lig Light', 'Fira Code Retina', 'FiraCode Nerd Font', 'Material Design Icons', 'Font Awesome 6 Free', mono",
     "editor.fontLigatures": true,
     "editor.lineHeight": 1.85,
@@ -262,7 +262,9 @@
         "partial-utility-type",
         "required-utility-type",
         "type-alias-with-multiple-generics",
-        "tuple-type"
+        "tuple-type",
+        "function-return-type",
+        "null-keyword"
     ],
     "workbench.colorTheme": "GitHub Dark Turbo"
 }
